@@ -49,7 +49,7 @@ Project created by <a href="https://github.com/Fasil-vkn">Fasil-vkn</a> to make 
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Fasil-vkn/Paathu)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/krizooo/Paathu)
      </div>
 <br>
 <br >
@@ -64,8 +64,8 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/Fasil-vkn/Paathu
-$ cd Paathu 
+$ git clone https://github.com/krizooo/Paathu
+$ cd krizo 
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -74,8 +74,8 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/Fasil-vkn/Paathu
-$ cd Paathu
+$ git clone https://github.com/krizooo/Paathu
+$ cd krizo
 $ chmod +x *
 $ npm i
 $ node qr.js
